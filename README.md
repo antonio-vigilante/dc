@@ -1,6 +1,7 @@
 # Discorso Comune
 
 ![](immagini/charles-postiaux-efkSReIxQAw-unsplash.jpg)
+🖼️ Foto di [Charles Postiaux su Unsplash](https://unsplash.com/it/@charlespostiaux)
 
 > Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
 
@@ -14,4 +15,4 @@ _Discorso Comune_ è il cantiere di un manuale di Scienze Umane ad accesso apert
 
 
 
-🖼️ [Foto di Charles Postiaux su Unsplash](https://unsplash.com/it/@charlespostiaux)
+
