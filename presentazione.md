@@ -1,5 +1,6 @@
 # Presentazione
-Bisogna dunque seguire ciò che è comune. Ma pur essendo questo discorso comune, la maggior parte degli uomini vivono come se avessero una loro propria e particolare saggezza [DK 22, B 2].
+
+> Bisogna dunque seguire ciò che è comune. Ma pur essendo questo discorso comune, la maggior parte degli uomini vivono come se avessero una loro propria e particolare saggezza [DK 22, B 2].
 
 Il pensiero è di Eraclito, ed indica l'importanza del pubblico, della dimensione comune ed aperta quale dimensione indispensabile all'essere umano. Senza questa dimensione si è come dormienti, axynetoi, privi di connessioni ed incapaci di ascolto. Le scienze umane studiano l'essere umano senza mai trascurare questa dimensione comune che ci costituisce. Lo stesso studio dell'individuo non può prescindere dalle numerose connessioni che lo legano agli altri ed al mondo, dal suo costitutivo essere-in-relazione, da cui dipendono felicità e infelicità, sofferenza e gioia, realizzazione e depressione.
 
