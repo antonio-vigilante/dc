@@ -2,5 +2,5 @@
 # Per il primo biennio
 
 ## Psicologia
-### [La nascita della psicologia](volume--1/psicologia/la--nascita--della--psicologia.md)
+### [Introduzione alla psicologia](volume--1/psicologia/introduzione-alla--psicologia.md)
 
