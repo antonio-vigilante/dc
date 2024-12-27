@@ -1,3 +1,5 @@
+<title>Discorso Comune</title>
+
 # Discorso Comune
 
 ![](immagini/charles-postiaux-efkSReIxQAw-unsplash.jpg)
