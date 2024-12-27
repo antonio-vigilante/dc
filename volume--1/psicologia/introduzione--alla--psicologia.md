@@ -184,3 +184,7 @@ Lo **psicoterapeuta**, invece, è uno psicologo (o un medico) che ha completato 
 Questa distinzione è fondamentale per comprendere i ruoli e i limiti di ciascuna figura professionale. Mentre lo psicologo può offrire consulenza e supporto in molte aree della vita, lo psicoterapeuta è specializzato nel trattamento terapeutico di problematiche più complesse. Entrambi, tuttavia, collaborano spesso per migliorare il benessere mentale delle persone, affrontando sfide che spaziano dalla vita quotidiana alle situazioni più difficili.
 
 
+
+
+
+
