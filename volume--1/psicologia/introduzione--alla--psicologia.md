@@ -1,5 +1,4 @@
-[volume I](/volume--1) / [psicologia](/volume--1/psicologia/index.md)
-https://github.com/antonio-vigilante/nessi/blob/main/volume--1%2Findex.md
+[volume I](/volume--1) / [psicologia](/volume--1%2Fpsicologia/index.md)
 
 # Unità 1. Introduzione alla psicologia
 
