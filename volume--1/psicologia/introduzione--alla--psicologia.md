@@ -1,3 +1,5 @@
+# Introduzione alla psicologia
+
 ## 1. Un esempio dal quotidiano
 
 Entrare in un supermercato a prima vista sembra un'azione semplice: prendi un carrello, percorri le corsie, scegli i prodotti di cui hai bisogno e vai alla cassa. Ma cosa succede davvero nella tua mente durante questa esperienza? Qui entra in gioco la psicologia.
