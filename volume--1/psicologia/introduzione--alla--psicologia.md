@@ -102,7 +102,7 @@ La psicologia non nega l'importanza del senso comune. Anzi, parte spesso proprio
 
 Per esempio, se il senso comune ci dice che _"essere felici fa vivere più a lungo"_, la psicologia analizza questa affermazione studiando dati su migliaia di persone per capire come la felicità influenzi la salute, e se ci siano altri fattori coinvolti (come lo stile di vita o le relazioni sociali).
 
-### Per riflettere
+💡 **Per riflettere**
 
 Il senso comune è una bussola che usiamo ogni giorno, ma può portarci fuori strada se non lo mettiamo in discussione. La psicologia ci insegna a sviluppare un pensiero critico e a non accettare tutto ciò che sembra ovvio. Questo è particolarmente importante in un mondo in cui siamo continuamente esposti a informazioni, opinioni e credenze che spesso non hanno basi solide.
 
