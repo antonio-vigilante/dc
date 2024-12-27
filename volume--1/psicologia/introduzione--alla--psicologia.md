@@ -22,7 +22,7 @@ L'esempio del supermercato dimostra come la psicologia permei profondamente il n
 
 In sostanza, la psicologia non si limita a studiare la mente e il comportamento, ma ci aiuta a vedere il mondo con occhi diversi. Ci fa scoprire come i nostri pensieri e le nostre azioni siano influenzati da fattori che spesso non percepiamo, rendendoci più consapevoli delle dinamiche che guidano le nostre vite.
 
-💭 #### Per riflettere
+💭 **Per riflettere**
 
 La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione, prendiamo una decisione importante o affrontiamo una sfida personale, entriamo in un campo in cui i principi della psicologia sono attivi. Conoscerli significa:
 
