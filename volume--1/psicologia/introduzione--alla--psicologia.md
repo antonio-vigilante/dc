@@ -1,3 +1,8 @@
+---
+title: "Introduzione alla psicologia"
+menu: false
+---
+
 # Introduzione alla psicologia
 
 ## 1. Un esempio dal quotidiano
