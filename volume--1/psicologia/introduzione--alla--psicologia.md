@@ -1,4 +1,4 @@
-[volume 1](volume--1) / [psicologia](psicologia)
+[volume I](volume--1) / [psicologia](volume--1/psicologia)
 
 # Introduzione alla psicologia
 
