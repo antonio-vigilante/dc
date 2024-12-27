@@ -9,7 +9,7 @@ _Discorso Comune_ è il cantiere di un manuale di Scienze Umane ad accesso apert
 
 [Presentazione](presentazione.md)
 
-::book:: [Volume I: Primo biennio](volume--1/index.md)
+📖 [Volume I: Primo biennio](volume--1/index.md)
 
 
 
