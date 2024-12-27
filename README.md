@@ -8,5 +8,6 @@ _Discorso Comune_ è il cantiere di un manuale di Scienze Umane ad accesso apert
 
 [Presentazione](presentazione.md)
 
-
-<div style="border: 1px solid black; padding: 10px; background-color: #f9f9f9;">Foto di Charles Postiaux su Unsplash, https://unsplash.com/it/@charlespostiaux</div>
+:::
+Foto di Charles Postiaux su Unsplash, https://unsplash.com/it/@charlespostiaux
+:::
