@@ -1,5 +1,3 @@
-# Discorso Comune
-
 ![](immagini/charles-postiaux-efkSReIxQAw-unsplash.jpg)
 🖼️ Foto di [Charles Postiaux su Unsplash](https://unsplash.com/it/@charlespostiaux)
 
