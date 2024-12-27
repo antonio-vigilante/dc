@@ -1,4 +1,4 @@
-[volume I](/volume--1) / [psicologia](index.md)
+[volume I](/volume--1) / [psicologia](index)
 
 # Unità 1. Introduzione alla psicologia
 
