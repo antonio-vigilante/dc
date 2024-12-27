@@ -1,7 +1,4 @@
----
-title: "Introduzione alla psicologia"
-menu: false
----
+[volume 1](volume--1) / [psicologia](psicologia)
 
 # Introduzione alla psicologia
 
