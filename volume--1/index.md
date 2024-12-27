@@ -3,5 +3,5 @@
 Per il primo biennio
 
 ## Psicologia
-### [Introduzione alla psicologia](introduzione-alla--psicologia.md)
+### [Introduzione alla psicologia](psicologia/introduzione-alla--psicologia.md)
 
