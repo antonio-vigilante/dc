@@ -32,7 +32,7 @@ La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione
 
  Riesci a individuare altri contesti quotidiani in cui la psicologia è presente, anche se in modo invisibile?
 
-## 2. Cosa studia la Psicologia
+## 2. Cosa studia la psicologia
 
 La psicologia è la scienza che studia il **comportamento umano** e i **processi mentali**, cioè tutto ciò che facciamo e pensiamo. Questa definizione, usata da molti psicologi, ci aiuta a capire che la psicologia si occupa sia di quello che possiamo vedere e misurare (il comportamento), sia di quello che accade dentro la nostra mente e che non possiamo osservare direttamente (i processi mentali).
 
