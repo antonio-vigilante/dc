@@ -9,6 +9,9 @@ author:
   name: "Antonio Vigilante"
   email: "antoniovigilante@autistici.org"
 
+baseurl: ""
+
+
 # Output
 destination: _site # Directory di output per il sito generato
 
