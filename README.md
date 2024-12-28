@@ -2,8 +2,10 @@
 
 ### Un manuale open access di Scienze Umane
 
-![](immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
-🖼️ Foto di Foto di Marcello Gennari su [Unsplash](https://unsplash.com/it/foto/cornice-in-legno-marrone-KA89yJKYtjE")      
+![Foto di Marcello Gennari](immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
+Foto di Foto di Marcello Gennari su [Unsplash](https://unsplash.com/it/foto/cornice-in-legno-marrone-KA89yJKYtjE")   
+
+    
 
 > Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
 
