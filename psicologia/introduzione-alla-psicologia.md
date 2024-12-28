@@ -21,14 +21,12 @@ L'esempio del supermercato dimostra come la psicologia permei profondamente il n
 
 In sostanza, la psicologia non si limita a studiare la mente e il comportamento, ma ci aiuta a vedere il mondo con occhi diversi. Ci fa scoprire come i nostri pensieri e le nostre azioni siano influenzati da fattori che spesso non percepiamo, rendendoci più consapevoli delle dinamiche che guidano le nostre vite.
 
-``` 
-### Per riflettere
-La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione, prendiamo una decisione importante o affrontiamo una sfida personale, entriamo in un campo in cui i principi della psicologia sono attivi. Conoscerli significa:
-1. Comprendere meglio noi stessi e il nostro mondo.
-2. Diventare meno vulnerabili a manipolazioni esterne.
-3. Acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.
-Riesci a individuare altri contesti quotidiani in cui la psicologia è presente, anche se in modo invisibile?
-```
+>**Per riflettere**  
+>La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione, prendiamo una decisione importante o affrontiamo una sfida personale, entriamo in un campo in cui i principi della psicologia sono attivi. >Conoscerli significa:
+>1. Comprendere meglio noi stessi e il nostro mondo.
+>2. Diventare meno vulnerabili a manipolazioni esterne.
+>3. Acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.
+>Riesci a individuare altri contesti quotidiani in cui la psicologia è presente, anche se in modo invisibile?
 
 ## 2. Cosa studia la psicologia
 
@@ -100,12 +98,10 @@ La psicologia non nega l'importanza del senso comune. Anzi, parte spesso proprio
 
 Per esempio, se il senso comune ci dice che _"essere felici fa vivere più a lungo"_, la psicologia analizza questa affermazione studiando dati su migliaia di persone per capire come la felicità influenzi la salute, e se ci siano altri fattori coinvolti (come lo stile di vita o le relazioni sociali).
 
-💡 **Per riflettere**
-
-Il senso comune è una bussola che usiamo ogni giorno, ma può portarci fuori strada se non lo mettiamo in discussione. La psicologia ci insegna a sviluppare un pensiero critico e a non accettare tutto ciò che sembra ovvio. Questo è particolarmente importante in un mondo in cui siamo continuamente esposti a informazioni, opinioni e credenze che spesso non hanno basi solide.
-
-Puoi ricordare un caso in cui il senso comune ti ha portato a credere qualcosa che poi si è rivelato falso? Cosa hai imparato da questa esperienza?
-Perché pensi sia importante verificare scientificamente le affermazioni sul comportamento umano? Prova a pensare a una credenza del senso comune che ti sembra ovvia. Come potresti verificarla con un approccio scientifico?
+>💡 **Per riflettere**  
+>Il senso comune è una bussola che usiamo ogni giorno, ma può portarci fuori strada se non lo mettiamo in discussione. La psicologia ci insegna a sviluppare un pensiero critico e a non accettare tutto ciò che sembra ovvio. Questo è particolarmente importante in un mondo in cui siamo continuamente esposti a informazioni, opinioni e credenze che spesso non hanno basi solide.
+>Puoi ricordare un caso in cui il senso comune ti ha portato a credere qualcosa che poi si è rivelato falso? Cosa hai imparato da questa esperienza?
+>Perché pensi sia importante verificare scientificamente le affermazioni sul comportamento umano? Prova a pensare a una credenza del senso comune che ti sembra ovvia. Come potresti verificarla con un approccio scientifico?
 
 ## 4. I metodi della psicologia scientifica
 
