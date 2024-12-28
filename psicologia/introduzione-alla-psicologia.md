@@ -20,10 +20,7 @@ La psicologia ci aiuta a vedere il mondo con occhi diversi. Ci fa scoprire come 
 
 >💡 **Per riflettere**  
 >La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione, prendiamo una decisione importante o affrontiamo una sfida personale, entriamo in un campo in cui i principi della psicologia sono attivi.
->Conoscerli significa:
->1. Comprendere meglio noi stessi e il nostro mondo.
->2. Diventare meno vulnerabili a manipolazioni esterne.
->3. Acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.  
+>Conoscerli significa comprendere meglio noi stessi e il nostro mondo, diventare meno vulnerabili a manipolazioni esterne e acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.  
 >Riesci a individuare altri contesti quotidiani in cui la psicologia è presente, anche se in modo invisibile?
 
 ## 2. Cosa studia la psicologia
