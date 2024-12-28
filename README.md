@@ -1,6 +1,6 @@
 # nessi
 
-### Un manuale open access di Scienze Umane
+### Un manuale di Scienze Umane ad accesso aperto
 
 ![](immagini/brain-5274019_1280.jpg)
 Pete Linforth / [Pixabay](https://pixabay.com/it//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5274019)
