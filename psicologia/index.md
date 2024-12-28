@@ -6,6 +6,7 @@
 [3. Psicologia e senso comune](introduzione-alla-psicologia#3-psicologia-e-senso-comune)  
 [4. I metodi della psicologia scientifica](introduzione-alla-psicologia#4-i-metodi-della-psicologia-scientifica)  
 [5. Le branche della psicologia](introduzione-alla-psicologia#5-le-branche-della-psicologia)  
-[6. Psicologia e psicoterapia](introduzione-alla-psicologia#6-psicologia-e-psicoterapia)
+[6. Psicologia e psicoterapia](introduzione-alla-psicologia#6-psicologia-e-psicoterapia)  
+[Test](test.html)
          
 
