@@ -2,8 +2,8 @@
 
 ### Un manuale open access di Scienze Umane
 
-![](immagini/charles-postiaux-efkSReIxQAw-unsplash.jpg)
-🖼️ Foto di [Charles Postiaux su Unsplash](https://unsplash.com/it/@charlespostiaux)
+![](immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
+🖼️ Foto di Foto di Marcello Gennari su [Unsplash](https://unsplash.com/it/foto/cornice-in-legno-marrone-KA89yJKYtjE")      
 
 > Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
 
