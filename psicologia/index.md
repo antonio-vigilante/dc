@@ -8,5 +8,7 @@
 [5. Le branche della psicologia](introduzione-alla-psicologia#5-le-branche-della-psicologia)  
 [6. Psicologia e psicoterapia](introduzione-alla-psicologia#6-psicologia-e-psicoterapia)  
 [Test](test.html)
+[Laboratorio](laboratorio.md)
+
          
 
