@@ -13,20 +13,17 @@ Anche le emozioni giocano un ruolo importante. Ad esempio, la musica lenta può 
 
 Infine, arrivando alla cassa, potresti notare una fila di snack e piccole tentazioni. Questo è un esempio di come la psicologia studia i **meccanismi di impulso**: quegli acquisti dell'ultimo minuto che non avevi pianificato, ma che soddisfano il tuo bisogno immediato di gratificazione.
 
-L'esempio del supermercato dimostra come la psicologia permei profondamente il nostro mondo, anche in contesti apparentemente semplici. Ogni giorno entriamo in contatto con sistemi, messaggi e strutture progettati per influenzare il nostro comportamento, dai social media agli annunci pubblicitari, dalle applicazioni che utilizziamo per organizzare la nostra vita alle modalità con cui ci relazioniamo con gli altri. Qualche altro esempio:
+L'esempio del supermercato dimostra come la psicologia permei profondamente il nostro mondo, anche in contesti apparentemente semplici. Ogni giorno entriamo in contatto con sistemi, messaggi e strutture progettati per influenzare il nostro comportamento, dai social media agli annunci pubblicitari, dalle applicazioni che utilizziamo per organizzare la nostra vita alle modalità con cui ci relazioniamo con gli altri. 
+Un altro esempio: quando scorri il feed di un social network, la disposizione dei contenuti è progettata per mantenere la tua attenzione: un'applicazione diretta dei principi psicologici legati al **rinforzo e alla ricompensa**.
 
-- Quando scorri il feed di un social network, la disposizione dei contenuti è progettata per mantenere la tua attenzione: un'applicazione diretta dei principi psicologici legati al **rinforzo e alla ricompensa**.
-- Nel lavoro o a scuola, la psicologia ci aiuta a capire come migliorare la motivazione, la concentrazione e la collaborazione con gli altri.
-- Persino il linguaggio usato nelle notizie o nelle campagne politiche sfrutta meccanismi psicologici come il **bias di conferma**, che ci porta a cercare e accettare informazioni coerenti con le nostre idee preesistenti.
-
-In sostanza, la psicologia non si limita a studiare la mente e il comportamento, ma ci aiuta a vedere il mondo con occhi diversi. Ci fa scoprire come i nostri pensieri e le nostre azioni siano influenzati da fattori che spesso non percepiamo, rendendoci più consapevoli delle dinamiche che guidano le nostre vite.
+La psicologia ci aiuta a vedere il mondo con occhi diversi. Ci fa scoprire come i nostri pensieri e le nostre azioni siano influenzati da fattori che spesso non percepiamo, rendendoci più consapevoli delle dinamiche che guidano le nostre vite.
 
 >💡 **Per riflettere**  
 >La psicologia è ovunque. Quando scegliamo un prodotto, stringiamo una relazione, prendiamo una decisione importante o affrontiamo una sfida personale, entriamo in un campo in cui i principi della psicologia sono attivi.
 >Conoscerli significa:
 >1. Comprendere meglio noi stessi e il nostro mondo.
 >2. Diventare meno vulnerabili a manipolazioni esterne.
->3. Acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.
+>3. Acquisire strumenti per migliorare la nostra qualità di vita, sviluppando comportamenti più efficaci e consapevoli.  
 >Riesci a individuare altri contesti quotidiani in cui la psicologia è presente, anche se in modo invisibile?
 
 ## 2. Cosa studia la psicologia
