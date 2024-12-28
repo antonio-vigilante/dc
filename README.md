@@ -1,4 +1,4 @@
-# _nessi
+# nessi
 
 ### Un manuale open access di Scienze Umane
 
