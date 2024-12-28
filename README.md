@@ -1,3 +1,9 @@
+---
+layout: default
+title: ""
+---
+
+
 # _nessi
 
 ### Un manuale open access di Scienze Umane
