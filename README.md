@@ -1,9 +1,10 @@
-# Nessi
+# _nessi
 
 ### Un manuale open access di Scienze Umane
 
-![Foto di Marcello Gennari](https://antonio-vigilante.github.io/nessi/immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
-Foto di Marcello Gennari su [Unsplash](https://unsplash.com/it/foto/cornice-in-legno-marrone-KA89yJKYtjE")   
+![](immagini/brain-5274019_1280.jpg)
+Foto di Pete Linforth da [Pixabay](https://pixabay.com/it//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5274019)
+
 
     
 
