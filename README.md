@@ -2,7 +2,7 @@
 
 ### Un manuale open access di Scienze Umane
 
-![Foto di Marcello Gennari](http://antonio-vigilante.github.io//nessiimmagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg](https://antonio-vigilante.github.io/nessi/immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
+![Foto di Marcello Gennari](https://antonio-vigilante.github.io/nessi/immagini/marcello-gennari-KA89yJKYtjE-unsplash.jpg)
 Foto di Foto di Marcello Gennari su [Unsplash](https://unsplash.com/it/foto/cornice-in-legno-marrone-KA89yJKYtjE")   
 
     
