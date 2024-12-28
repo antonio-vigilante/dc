@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionario di Psicologia</title>
+    <style>
+        .correct {
+            background-color: #c8e6c9; /* Verde chiaro per risposte corrette */
+        }
+        .incorrect {
+            background-color: #ffcdd2; /* Rosso chiaro per risposte errate */
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+        #result {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Questionario di Psicologia</h1>
+    <form id="quiz">
+        <div class="question">
+            <p>1. Quale disciplina studia il comportamento umano e i processi mentali?</p>
+            <label><input type="radio" name="q1" value="A"> Sociologia</label><br>
+            <label><input type="radio" name="q1" value="B"> Antropologia</label><br>
+            <label><input type="radio" name="q1" value="C"> Psicologia</label><br>
+            <label><input type="radio" name="q1" value="D"> Filosofia</label><br>
+        </div>
+
+        <div class="question">
+            <p>2. Quale dei seguenti NON è considerato un processo mentale?</p>
+            <label><input type="radio" name="q2" value="A"> Pensiero</label><br>
+            <label><input type="radio" name="q2" value="B"> Memoria</label><br>
+            <label><input type="radio" name="q2" value="C"> Camminare</label><br>
+            <label><input type="radio" name="q2" value="D"> Emozione</label><br>
+        </div>
+
+        <!-- Aggiungi altre domande qui usando lo stesso formato -->
+
+        <button type="button" onclick="submitQuiz()">Invia</button>
+    </form>
+    <p id="result"></p>
+
+    <script>
+        function submitQuiz() {
+            const answers = {
+                q1: "C",
+                q2: "C",
+                // Aggiungi altre risposte corrette qui
+            };
+
+            let score = 0;
+
+            // Reset delle classi di stile
+            document.querySelectorAll("label").forEach(label => {
+                label.classList.remove("correct", "incorrect");
+            });
+
+            // Controllo delle risposte
+            for (const [question, correctAnswer] of Object.entries(answers)) {
+                const selected = document.querySelector(`input[name="${question}"]:checked`);
+
+                if (selected) {
+                    const parentLabel = selected.closest("label");
+                    if (selected.value === correctAnswer) {
+                        score++;
+                        parentLabel.classList.add("correct"); // Evidenzia risposta corretta
+                    } else {
+                        parentLabel.classList.add("incorrect"); // Evidenzia risposta errata
+                    }
+                }
+
+                // Evidenzia sempre la risposta corretta
+                const correctInput = document.querySelector(`input[name="${question}"][value="${correctAnswer}"]`);
+                if (correctInput) {
+                    correctInput.closest("label").classList.add("correct");
+                }
+            }
+
+            // Mostra il punteggio
+            document.getElementById("result").innerText = `Punteggio: ${score}/${Object.keys(answers).length}`;
+        }
+    </script>
+</body>
+</html>
