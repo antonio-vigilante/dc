@@ -1,6 +1,6 @@
 # Psicologia
 
-![Tara Winstead](http:antonio-vigilante.github.io/immagini/pexels-tara-winstead-8849272-2-md.jpg)
+![Tara Winstead](http://antonio-vigilante.github.io/immagini/pexels-tara-winstead-8849272-2-md.jpg)
 
 Tara Winstead  / [Pexels](https://www.pexels.com/it-it/foto/arte-testa-creativita-farfalle-8849272/)
 
