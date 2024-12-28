@@ -13,10 +13,10 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 
 ## Aree
 
-Antropologia
-Pedagogia
-[Psicologia](psicologia)
-Sociologia
+Antropologia  
+Pedagogia  
+[Psicologia](psicologia)  
+Sociologia  
 
 ## Volumi
 
