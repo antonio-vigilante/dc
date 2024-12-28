@@ -39,7 +39,7 @@ Si tratta di una rappresentazione corretta dal punto di vista scientifico?
 Che tipo di stereotipi o convinzioni del senso comune emergono?  
 Perché questo meme potrebbe risultare convincente o divertente per chi lo condivide?  
 
-#€#€ Creazione di una presentazione
+#### Creazione di una presentazione
 
 Ogni gruppo crea una breve presentazione o un poster digitale che includa:
 
