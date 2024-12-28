@@ -1,5 +1,9 @@
 # Psicologia
 
+![](immagini/pexels-tara-winstead-8849272-2-md.jpg)
+
+Tara Winstead  / [Pexels](https://www.pexels.com/it-it/foto/arte-testa-creativita-farfalle-8849272/)
+
 ### Introduzione alla psicologia   
 [1. Un esempio dal quotidiano](introduzione-alla-psicologia#1-un-esempio-dal-quotidiano)  
 [2. Cosa studia la psicologia](introduzione-alla-psicologia#2-cosa-studia-la-psicologia)    
