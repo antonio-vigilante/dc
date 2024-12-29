@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Questionario di Psicologia</title>
+    <title>Test</title>
     <style>
         .correct {
             background-color: #c8e6c9; /* Verde chiaro per risposte corrette */
@@ -20,26 +20,43 @@
     </style>
 </head>
 <body>
-    <h1>Questionario di Psicologia</h1>
+    <h1>Test/Introduzione alla psicologia</h1>
     <form id="quiz">
         <div class="question">
-            <p>1. Quale disciplina studia il comportamento umano e i processi mentali?</p>
-            <label><input type="radio" name="q1" value="A"> Sociologia</label><br>
-            <label><input type="radio" name="q1" value="B"> Antropologia</label><br>
-            <label><input type="radio" name="q1" value="C"> Psicologia</label><br>
-            <label><input type="radio" name="q1" value="D"> Filosofia</label><br>
+            
+        <div class="question">
+            <p>1. Quale è l'obiettivo principale della psicologia?</p>
+            <label><input type="radio" name="q2" value="A"> Studiare solo i comportamenti osservabili</label><br>
+            <label><input type="radio" name="q2" value="B"> Analizzare i processi mentali inconsci</label><br>
+            <label><input type="radio" name="q2" value="C"> Studiare il comportamento umano e i processi mentali</label><br>
+            <label><input type="radio" name="q2" value="D"> Esaminare solo le emozioni umane</label><br>
         </div>
 
-        <div class="question">
-            <p>2. Quale dei seguenti NON è considerato un processo mentale?</p>
-            <label><input type="radio" name="q2" value="A"> Pensiero</label><br>
+            <div class="question">
+            <p>2. Quale dei seguenti _non_ è considerato un processo mentale?</p>
+            <label><input type="radio" name="q2" value="A"> Pensiero<br>
             <label><input type="radio" name="q2" value="B"> Memoria</label><br>
             <label><input type="radio" name="q2" value="C"> Camminare</label><br>
-            <label><input type="radio" name="q2" value="D"> Emozione</label><br>
+            <label><input type="radio" name="q2" value="D"> Linguaggio</label><br>
         </div>
 
-        <!-- Aggiungi altre domande qui usando lo stesso formato -->
+             <div class="question">
+            <p>2. Quale dei seguenti _non_ è considerato un processo mentale?</p>
+            <label><input type="radio" name="q2" value="A"> Pensiero<br>
+            <label><input type="radio" name="q2" value="B"> Memoria</label><br>
+            <label><input type="radio" name="q2" value="C"> Camminare</label><br>
+            <label><input type="radio" name="q2" value="D"> Linguaggio</label><br>
+        </div>
 
+                 <div class="question">
+            <p>3. Come viene influenzato il comportamento dei clienti in un supermercato, secondo il testo?</p>
+            <label><input type="radio" name="q2" value="A"> Attraverso sconti su tutti i prodotti<br>
+            <label><input type="radio" name="q2" value="B"> Mediante la disposizione dei prodotti, luci e suoni</label><br>
+            <label><input type="radio" name="q2" value="C"> Offrendo campioni gratuiti all'ingresso</label><br>
+            <label><input type="radio" name="q2" value="D"> Riducendo il numero di corsie disponibili</label><br>
+        </div>
+
+            
         <button type="button" onclick="submitQuiz()">Invia</button>
     </form>
     <p id="result"></p>
@@ -49,6 +66,7 @@
             const answers = {
                 q1: "C",
                 q2: "C",
+                q3  "B",
                 // Aggiungi altre risposte corrette qui
             };
 
