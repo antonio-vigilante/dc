@@ -4,7 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test</title>
-    <style>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px; /* Margini esterni */
+            padding: 20px; /* Spazio interno */
+            max-width: 800px; /* Larghezza massima del contenuto */
+            margin-left: auto;
+            margin-right: auto; /* Centrare il contenuto */
+            background-color: #f9f9f9; /* Sfondo chiaro */
+            color: #333; /* Colore del testo */
+        }
         .correct {
             background-color: #c8e6c9; /* Verde chiaro per risposte corrette */
         }
@@ -13,9 +24,33 @@
         }
         .question {
             margin-bottom: 20px;
+            padding: 10px;
+            background-color: #fff; /* Sfondo bianco per contrasto */
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Ombra leggera */
+        }
+        h1 {
+            text-align: center;
+            color: #4caf50; /* Colore verde */
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4caf50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049; /* Cambia colore al passaggio del mouse */
         }
         #result {
             font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
         }
     </style>
 </head>
