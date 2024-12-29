@@ -7,6 +7,8 @@ Entrare in un supermercato a prima vista sembra un'azione semplice: prendi un ca
 
 Appena varchi la soglia del supermercato, i tuoi **sensi** si attivano: vedi gli scaffali colorati, ascolti la musica di sottofondo, senti il profumo del pane appena sfornato. Questi stimoli non sono casuali. La disposizione dei prodotti, le luci e i suoni sono progettati per attirare la tua attenzione e influenzare le tue decisioni. È la psicologia del marketing: lo studio di come il nostro comportamento può essere orientato da stimoli esterni.
 
+![](./immagini/joshua-rawson-harris-YNaSz-E7Qss-unsplash.jpg)
+
 Mentre cammini tra le corsie, il tuo **processo decisionale** entra in gioco. Forse hai una lista della spesa, ma ti capita di aggiungere al carrello qualcosa che non avevi pianificato: un'offerta speciale o un prodotto esposto in una posizione strategica. Questo accade perché il nostro cervello risponde in modo automatico a certi stimoli, come il colore rosso delle etichette di sconto, che richiama attenzione e urgenza.
 
 Anche le emozioni giocano un ruolo importante. Ad esempio, la musica lenta può farti sentire più rilassato e spingerti a trascorrere più tempo nel negozio, aumentando la probabilità che tu acquisti di più. Oppure, potresti scegliere un prodotto specifico perché ti ricorda un’esperienza positiva, come un sapore che associ alla tua infanzia.
