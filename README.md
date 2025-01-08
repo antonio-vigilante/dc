@@ -1,4 +1,4 @@
-# nessi
+# Nessi / Percorsi nelle Scienze Umane
 
 ### Un manuale di Scienze Umane ad accesso aperto
 
