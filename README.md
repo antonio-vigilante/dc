@@ -1,4 +1,4 @@
-# Nessi / Percorsi nelle Scienze Umane
+# Nessi 
 
 ### Un manuale di Scienze Umane ad accesso aperto
 
@@ -16,7 +16,7 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 
 ## Aree
 
-Antropologia / [Pedagogia](pedagogia/index.md) / [Psicologia](psicologia/index.md) / Sociologia  
+[Antropologia](antropologia/index.md) / [Pedagogia](pedagogia/index.md) / [Psicologia](psicologia/index.md) / Sociologia  
 
 ## In evidenza
 
