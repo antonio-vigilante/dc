@@ -1,6 +1,6 @@
 # Maria Montessori
 
-![Maria Montessori](./immagini/montessori.jpg)
+![Maria Montessori](../immagini/montessori.jpg)
 ## La vita
 
 Maria Montessori nasce a Chiaravalle, nelle Marche, nel 1870. Cinque anni dopo si trasferisce con la famiglia a Roma, dove frequenta il Regio Istituto Tecnico “Leonardo Da Vinci”, ottenendo il diploma nel 1890. In contrasto con il padre e con gran parte dell’opinione pubblica dell’epoca, che considerava gli studi tecnico-scientifici inadatti alle donne, decide di iscriversi al corso di laurea in medicina dell’Università “La Sapienza”, dove si laurea nel 1896, prima donna italiana laureata in medicina. Lo stesso anno è a Berlin
