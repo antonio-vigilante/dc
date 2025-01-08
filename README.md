@@ -18,6 +18,11 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 
 Antropologia / [Pedagogia](pedagogia/index.md) / [Psicologia](psicologia/index.md) / Sociologia  
 
+## In evidenza
+
+[Maria Montessori](psicologia/montessori.md)
+
+
  
 
 
