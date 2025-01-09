@@ -35,7 +35,13 @@ mindmap
 
 
 
+# Esempio di Mappa con Mermaid
 
+```mermaid
+graph TD
+    A[Start] --> B{Is it working?}
+    B -->|Yes| C[Great!]
+    B -->|No| D[Check configuration]
 
 
 
