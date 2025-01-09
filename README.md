@@ -23,7 +23,14 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 [Maria Montessori](psicologia/montessori.md)
 
 
- 
+ mindmap
+  root((Idea Principale))
+    SubIdea1
+      SubIdea1.1
+      SubIdea1.2
+    SubIdea2
+      SubIdea2.1
+      SubIdea2.2
 
 
 
