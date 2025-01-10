@@ -2,11 +2,6 @@
 
 ### Un manuale di Scienze Umane ad accesso aperto
 
-![](immagini/brain-5274019_1280.jpg)
-[@ Pete Linforth](https://pixabay.com/it//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5274019)
-
-
-    
 <div class="callout">
 Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
 </div>
@@ -20,17 +15,6 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 <a href="https://antonio-vigilante.github.io/nessi/antropologia/index.html" class="button orange">Antropologia</a> <a href="https://antonio-vigilante.github.io/nessi/psicologia/index.html" class="button green">Psicologia</a>
 
 
-## In evidenza
-
-[Maria Montessori](psicologia/montessori.md)
-
-
-
-```mermaid
-graph TD
-    A[Start] --> B{Is it working?}
-    B -->|Yes| C[Great!]
-    B -->|No| D[Check configuration]
-
+ 
 
 
