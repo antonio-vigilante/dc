@@ -1,6 +1,9 @@
 
 ## La diversità umana
 
+@ <a href="https://unsplash.com/it/@jalodarajk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jayesh Jalodara</a> 
+      
+
 Immagina di partecipare a una festa di matrimonio in un piccolo villaggio dell'India. Gli sposi, adornati con ghirlande di fiori e abiti dai colori sgargianti, celebrano la loro unione in un rituale che coinvolge il fuoco sacro e preghiere recitate in sanscrito. Ora spostati in Scandinavia, dove un altro matrimonio si svolge in una semplice cerimonia civile, seguita da una cena in famiglia e un brindisi in onore della coppia. In Africa occidentale potresti assistere a un matrimonio tradizionale yoruba, con danze collettive, offerte agli antenati e uno scambio di doti tra le famiglie.
 
 Consideriamo l'alimentazione. In Giappone, una ciotola di ramen non è solo un pasto: è un'arte. La scelta degli ingredienti, la disposizione degli elementi nel piatto e persino il modo in cui viene consumato – sorseggiando rumorosamente per esprimere apprezzamento – riflettono valori culturali legati all'estetica e alla convivialità. Al contrario, pensa a un banchetto nuziale nel sud degli Stati Uniti, dove il barbecue – con carni affumicate e salse ricche di sapore – rappresenta non solo un'esperienza culinaria, ma anche un'occasione di comunità e tradizione familiare.
