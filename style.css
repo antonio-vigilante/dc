@@ -15,3 +15,48 @@
   border-left-color: #DC3545;
   background-color: #F8D7DA;
 }
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+/* Bottoni Arancio */
+.button.orange {
+  background-color: #FFA500;
+}
+.button.orange:hover {
+  background-color: #e59400;
+}
+
+/* Bottoni Verde */
+.button.green {
+  background-color: #28a745;
+}
+.button.green:hover {
+  background-color: #218838;
+}
+
+/* Bottoni Blu */
+.button.blue {
+  background-color: #007bff;
+}
+.button.blue:hover {
+  background-color: #0056b3;
+}
+
+/* Bottoni Viola */
+.button.purple {
+  background-color: #6f42c1;
+}
+.button.purple:hover {
+  background-color: #5936a2;
+}
