@@ -7,8 +7,9 @@
 
 
     
-
-> Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
+<div class="callout">
+Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseauù
+</div>
 
 _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il Liceo delle Scienze Umane, curato da [Antonio Vigilante](autore.md).
 
