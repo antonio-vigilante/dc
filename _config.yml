@@ -1,2 +1,10 @@
 title: "Nessi"
-mermaid: true
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+highlighter: none
+
+plugins:
+  - jekyll-mermaid
+
