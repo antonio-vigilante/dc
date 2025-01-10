@@ -1,6 +1,6 @@
 
 ## La diversità umana
-|[](./immagini/jayesh-jalodara-bWQ6-0c_ZcM-unsplash.jpg)
+![](../immagini/jayesh-jalodara-bWQ6-0c_ZcM-unsplash.jpg)
 
 @ <a href="https://unsplash.com/it/@jalodarajk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jayesh Jalodara</a> 
       
