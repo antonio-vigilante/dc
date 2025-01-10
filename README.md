@@ -25,19 +25,6 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 [Maria Montessori](psicologia/montessori.md)
 
 
-mindmap
-  root((Idea Principale))
-    Psicologia 
-      Introduzione 
-      Storia 
-    Antropologia 
-      Introduzione 
-      SubIdea2.2
-
-
-
-
-# Esempio di Mappa con Mermaid
 
 ```mermaid
 graph TD
