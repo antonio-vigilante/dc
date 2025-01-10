@@ -1,8 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-
-# Nessi 
-
 ### Un manuale di Scienze Umane ad accesso aperto
 
 ![](immagini/brain-5274019_1280.jpg)
