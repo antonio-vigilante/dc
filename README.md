@@ -20,6 +20,8 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 
 ## Aree
 
+<a href="https://antonio-vigilante.github.io/nessi/" class="button orange">Antropologia</a>
+
 [Antropologia](antropologia/index.md) / [Pedagogia](pedagogia/index.md) / [Psicologia](psicologia/index.md) / Sociologia  
 
 ## In evidenza
