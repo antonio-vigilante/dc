@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 # Nessi 
 
 ### Un manuale di Scienze Umane ad accesso aperto
