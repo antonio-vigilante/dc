@@ -29,6 +29,12 @@
   cursor: pointer;
 }
 
+@media (max-width: 480px) {
+  .button {
+    margin-bottom: 15px; /* Più spazio per schermi molto piccoli */
+  }
+}
+
 /* Bottoni Arancio */
 .button.orange {
   background-color: #FFA500;
