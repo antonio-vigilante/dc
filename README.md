@@ -13,12 +13,13 @@ _Nessi_ è il cantiere di un manuale di Scienze Umane ad accesso aperto per il L
 ## Aree
 
 <a href="https://antonio-vigilante.github.io/nessi/antropologia/index.html" class="button orange">Antropologia</a>
- <a href="https://antonio-vigilante.github.io/nessi/psicologia/index.html" class="button green">Psicologia</a>
+ 
+<a href="https://antonio-vigilante.github.io/nessi/psicologia/index.html" class="button green">Psicologia</a>
 
- <a href="https://antonio-vigilante.github.io/nessi/sociologia/index.html" class="button blu">Sociologia</a>
+ <a href="https://antonio-vigilante.github.io/nessi/sociologia/index.html" class="button purple">Sociologia</a>
 
 
- <a href="https://antonio-vigilante.github.io/nessi/psicologia/index.html" class="button green">Pedagigia</a>
+ <a href="https://antonio-vigilante.github.io/nessi/psicologia/index.html" class="button blu">Pedagogia</a>
 
 
  
