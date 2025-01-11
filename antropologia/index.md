@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../assets/style.css">
 
 
-<button class="button jellow">Antropologia culturale</button> 
+<button class="button yellow">Antropologia culturale</button> 
 
 ![](../immagini/mario-la-pergola-U6qZ22_YgoI-unsplash.jpg)
 [@ Mario La Pergola](https://unsplash.com/it/foto/maschera-di-legno-marrone-su-tessuto-blu-U6qZ22_YgoI)
