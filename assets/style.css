@@ -1,3 +1,8 @@
+img {
+  border-radius: 10px; /* Arrotonda gli angoli con un raggio di 10px */
+  border: 2px solid #ccc; /* Aggiunge un bordo intorno all'immagine */
+}
+
 .callout {
   border-left: 4px solid #007BFF;
   background-color: #f0f8ff;
