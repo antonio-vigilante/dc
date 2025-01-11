@@ -16,9 +16,9 @@
 [3. Una disciplina moderna](introduzione.md#una-disciplina-moderna)  
 [4. La cultura](introduzione.md#la-cultura)  
 [5. Relativismo culturale e etnocentrismo](introduzione.md#relativismo-culturale-e-etnocentrismo)  
-[6. Branche dell'antropologia](introduzione.md#branche-dellantropologia)  
+[6. Branche dell'antropologia culturale](introduzione.md#branche-dellantropologia)  
 [7. I metodi](introduzione.md#i-metodi)  
-[8. Cosa fa l'antropologo oggi](introduzione.md#cosa-fa-lantropologo-oggi)  
+[8. Cosa fa l'antropologo culturale oggi](introduzione.md#cosa-fa-lantropologo-oggi)  
 
 ## La diversità umana
 ![](../immagini/jayesh-jalodara-bWQ6-0c_ZcM-unsplash.jpg)
@@ -77,7 +77,7 @@ Un altro esempio riguarda i rituali funebri: in molte culture occidentali, seppe
 
 L'atteggiamento del relativismo culturale dunque cerca di sospendere il giudizio sulle culture diverse dalla propria. Ma se questo è possibile quando si tratta di usanze alimentari o rituali funebri, le cose si fanno più difficili quando si tratta di pratiche che offendono profondamente la nostra sensibilità o vanno addirittura contro la nostra visione dei diritti umani. È difficile accettare, in nome del relativismo culturale, le mutilazioni genitali femminili praticate in alcune aree dell'Africa, la pena di morte per l'adulterio o l'omosessualità, il matrimonio infantile o la segregazione di certi gruppi sociali. 
 
-## Branche dell'antropologia
+## Branche dell'antropologia culturale
 
 L’antropologia culturale si articola in diverse branche, ciascuna delle quali esplora aspetti specifici della vita umana per comprendere come gli esseri umani creano e trasmettono significati, valori e pratiche all’interno delle loro società. Tra le principali troviamo: 
 - **l'etnografia**, che si concentra sulla descrizione e analisi dettagliata di singole culture attraverso l'osservazione partecipante e l'interazione diretta con le comunità; 
@@ -98,7 +98,7 @@ Un'altra tecnica importante è lo studio dei **sistemi simbolici**, come i miti,
 
 Negli ultimi decenni, l'antropologia culturale ha integrato approcci **quantitativi**, come questionari e sondaggi, per ottenere dati utili a individuare tendenze e generalizzazioni. L'uso di strumenti digitali, come registrazioni audio e video, software per l’analisi qualitativa e piattaforme digitali per la comunicazione, ha arricchito ulteriormente la pratica etnografica. Questo approccio multidimensionale consente di cogliere la complessità della cultura, rivelando non solo le norme condivise, ma anche le contraddizioni, i conflitti e i cambiamenti.
 
-## Cosa fa l'antropologo oggi
+## Cosa fa l'antropologo culturale oggi
 
 L'antropologo contemporaneo non si limita più allo studio di comunità lontane o "esotiche", ma esplora i fenomeni culturali in una vasta gamma di contesti, adattandosi alle trasformazioni di un mondo globalizzato. Oggi, l’antropologo può trovarsi a studiare le dinamiche delle migrazioni, l’impatto delle tecnologie digitali, il cambiamento climatico, le questioni di genere, o i movimenti sociali e politici. In contesti urbani, rurali o virtuali, l'antropologo osserva come le persone costruiscono significati, affrontano le sfide globali e negoziano la propria identità.
 
