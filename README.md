@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="./assets/style.css">
 
 ### Un manuale di Scienze Umane ad accesso aperto
 
