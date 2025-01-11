@@ -3,8 +3,6 @@
 
 <a class="button green">Psicologia</a> 
 
-yhghuhbbbbbbbb
-
 ![Tara Winstead](../immagini/pexels-tara-winstead-8849272-2-md.jpg)
 
 Tara Winstead  / [Pexels](https://www.pexels.com/it-it/foto/arte-testa-creativita-farfalle-8849272/)
