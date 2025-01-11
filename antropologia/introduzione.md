@@ -13,9 +13,9 @@
 [3. Una disciplina moderna](introduzione.html#una-disciplina-moderna)  
 [4. La cultura](introduzione.md#la-cultura)  
 [5. Relativismo culturale e etnocentrismo](introduzione.html#relativismo-culturale-e-etnocentrismo)  
-[6. Branche dell'antropologia culturale](introduzione.html#branche-dellantropologia)  
+[6. Branche dell'antropologia culturale](introduzione.html#branche-dellantropologia-culturale)  
 [7. I metodi](introduzione.md#i-metodi)  
-[8. Cosa fa l'antropologo culturale oggi](introduzione.html#cosa-fa-lantropologo-oggi)  
+[8. Cosa fa l'antropologo culturale oggi](introduzione.html#cosa-fa-lantropologo-culturale-oggi)  
 
 ## La diversità umana
 ![](../immagini/jayesh-jalodara-bWQ6-0c_ZcM-unsplash.jpg)
