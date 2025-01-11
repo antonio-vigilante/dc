@@ -8,14 +8,14 @@
 
 ## Indice
 
-[1. La diversità umana](introduzione.md#la-diversità-umana)  
-[2. Una domanda antica](introduzione.md#una-domanda-antica)  
-[3. Una disciplina moderna](introduzione.md#una-disciplina-moderna)  
+[1. La diversità umana](introduzione.html#la-diversità-umana)  
+[2. Una domanda antica](introduzione.html#una-domanda-antica)  
+[3. Una disciplina moderna](introduzione.html#una-disciplina-moderna)  
 [4. La cultura](introduzione.md#la-cultura)  
-[5. Relativismo culturale e etnocentrismo](introduzione.md#relativismo-culturale-e-etnocentrismo)  
-[6. Branche dell'antropologia culturale](introduzione.md#branche-dellantropologia)  
+[5. Relativismo culturale e etnocentrismo](introduzione.html#relativismo-culturale-e-etnocentrismo)  
+[6. Branche dell'antropologia culturale](introduzione.html#branche-dellantropologia)  
 [7. I metodi](introduzione.md#i-metodi)  
-[8. Cosa fa l'antropologo culturale oggi](introduzione.md#cosa-fa-lantropologo-oggi)  
+[8. Cosa fa l'antropologo culturale oggi](introduzione.html#cosa-fa-lantropologo-oggi)  
 
 ## La diversità umana
 ![](../immagini/jayesh-jalodara-bWQ6-0c_ZcM-unsplash.jpg)
