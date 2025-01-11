@@ -3,10 +3,11 @@
 
 <button class="button orange">Antropologia culturale</button> 
 
+## Introduzione all'antropologia culturale
+
 ![](../immagini/mario-la-pergola-U6qZ22_YgoI-unsplash.jpg)
 [@ Mario La Pergola](https://unsplash.com/it/foto/maschera-di-legno-marrone-su-tessuto-blu-U6qZ22_YgoI)
 
-## Introduzione all'antropologia culturale
 [1. La diversità umana](introduzione.md#la-diversità-umana)  
 [2. Una domanda antica](introduzione.md#una-domanda-antica)  
 [3. Una disciplina moderna](introduzione.md#una-disciplina-moderna)  
