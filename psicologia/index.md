@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 
 
-<class="button green">Psicologia</class> 
+<a class="button green">Psicologia</a> 
 
 
 
