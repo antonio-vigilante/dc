@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../assets/style.css">
 
 
-<button class="button orange">Antropologia culturale</button> 
+<a class="button orange" href="inidex.md">Antropologia culturale</a> 
 
 
 # Introduzione all'antropologia culturale
