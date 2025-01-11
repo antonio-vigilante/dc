@@ -36,7 +36,7 @@ img {
 
 @media (max-width: 480px) {
   .button {
-    margin-bottom: 10px; /* Più spazio per schermi molto piccoli */
+    margin-bottom: 5px; /* Più spazio per schermi molto piccoli */
   }
 }
 
