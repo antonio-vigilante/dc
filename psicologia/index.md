@@ -1,13 +1,14 @@
 <link rel="stylesheet" href="../assets/style.css">
 
 
-<a class="button green">Psicologia</a> 
+<button class="button green">Psicologia</button> 
 
 ![Tara Winstead](../immagini/pexels-tara-winstead-8849272-2-md.jpg)
 
-Tara Winstead  / [Pexels](https://www.pexels.com/it-it/foto/arte-testa-creativita-farfalle-8849272/)
+[@ Tara Winstead](https://www.pexels.com/it-it/foto/arte-testa-creativita-farfalle-8849272/)
 
 ### Introduzione alla psicologia   
+
 [1. Un esempio dal quotidiano](introduzione-alla-psicologia#1-un-esempio-dal-quotidiano)  
 [2. Cosa studia la psicologia](introduzione-alla-psicologia#2-cosa-studia-la-psicologia)    
 [3. Psicologia e senso comune](introduzione-alla-psicologia#3-psicologia-e-senso-comune)  
