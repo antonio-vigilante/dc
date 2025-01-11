@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="./assets/style.css">
+<link rel="stylesheet" href="../assets/style.css">
 
 
 <a class="button green">Psicologia</a> 
 
-yhghuh
+yhghuhbbbbbbbb
 
 ![Tara Winstead](../immagini/pexels-tara-winstead-8849272-2-md.jpg)
 
