@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="../assets/style.css">
+
+
+<button class="button orange">Antropologia culturale</button> 
+
+
 ## Introduzione all'antropologia culturale
 
 ![](../immagini/mario-la-pergola-U6qZ22_YgoI-unsplash.jpg)
