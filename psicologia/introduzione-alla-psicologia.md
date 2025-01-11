@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="../assets/style.css">
+
+
+<button class="button green">Psicologia</button> 
 
 # Introduzione alla psicologia
 
