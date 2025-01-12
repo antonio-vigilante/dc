@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../assets/style.css">
+<title>Introduzione alla psicologia</title>
 
 
 <button class="button green">Psicologia</button> 
@@ -183,7 +184,7 @@ Questa distinzione è fondamentale per comprendere i ruoli e i limiti di ciascun
 
 <footer>
     <p>Hai feedback su questa pagina? Mandami una mail!</p>
-    <a id="feedback-link" href="#">Mandami una mail</a>
+    <a id="feedback-link" href="#">Feedback su questa pagina</a>
 </footer>
 
 <script>
@@ -191,7 +192,7 @@ Questa distinzione è fondamentale per comprendere i ruoli e i limiti di ciascun
     const pageTitle = document.title;
 
     // Componi il link mailto
-    const email = "tuoindirizzo@email.com";
+    const email = "rimarerum@gmail.com";
     const subject = `Feedback su: ${encodeURIComponent(pageTitle)}`;
     const body = "Scrivi qui il tuo messaggio.";
 
