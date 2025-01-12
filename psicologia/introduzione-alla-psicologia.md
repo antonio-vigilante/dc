@@ -182,21 +182,20 @@ Lo **psicoterapeuta**, invece, è uno psicologo (o un medico) che ha completato 
 Questa distinzione è fondamentale per comprendere i ruoli e i limiti di ciascuna figura professionale. Mentre lo psicologo può offrire consulenza e supporto in molte aree della vita, lo psicoterapeuta è specializzato nel trattamento terapeutico di problematiche più complesse. Entrambi, tuttavia, collaborano spesso per migliorare il benessere mentale delle persone, affrontando sfide che spaziano dalla vita quotidiana alle situazioni più difficili.
 
 
-<footer>
-    <p>Hai feedback su questa pagina? Mandami una mail!</p>
-    <a id="feedback-link" href="#">Feedback su questa pagina</a>
-</footer>
 
 <script>
-    // Ottieni il titolo della pagina
-    const pageTitle = document.title;
+    document.addEventListener("DOMContentLoaded", () => {
+        // Ottieni il titolo della pagina
+        const pageTitle = document.title;
 
-    // Componi il link mailto
-    const email = "rimarerum@gmail.com";
-    const subject = `Feedback su: ${encodeURIComponent(pageTitle)}`;
-    const body = "Scrivi qui il tuo messaggio.";
+        // Componi il link mailto
+        const email = "rimarerum@gmail.com";
+        const subject = `Feedback su: ${encodeURIComponent(pageTitle)}`;
+        const body = "Scrivi qui il tuo messaggio.";
 
-    // Aggiorna il link mailto con il titolo dinamico
-    const mailtoLink = `mailto:${email}?subject=${subject}&body=${encodeURIComponent(body)}`;
-    document.getElementById("feedback-link").href = mailtoLink;
+        // Aggiorna il link mailto con il titolo dinamico
+        const mailtoLink = `mailto:${email}?subject=${subject}&body=${encodeURIComponent(body)}`;
+        document.getElementById("feedback-link").href = mailtoLink;
+    });
 </script>
+
