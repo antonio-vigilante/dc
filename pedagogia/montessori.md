@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./assets/style.css">
 
-<button class="button blue">Pedagogia</button> 
+<a class="button blue" href="pedagogia.index.html">Pedagogia</a> 
 
 # Maria Montessori
 
