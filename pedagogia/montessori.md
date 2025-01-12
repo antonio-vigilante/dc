@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="./assets/style.css">
+
+<button class="button blue">Pedagogia</button> 
+
 # Maria Montessori
 
 ![Maria Montessori](../immagini/montessori.jpg)
@@ -15,7 +19,7 @@ Il 6 gennaio 1907 inaugura a Roma, nel popolare quartiere San Lorenzo, la prima 
 
 Il rapporto col fascismo, buono all’inizio, si deteriora inevitabilmente, anche in seguito alle critiche fatte da Giuseppe Lombardo Radice, che sostiene la superiorità e maggiore “italianità” della pedagogia delle sorelle Agazzi e la scarsa originalità di quella di Montessori. Nel 1934 si arriva alla chiusura delle scuole Montessori da parte del regime; lo stesso anno Montessori si dimette dall’Opera Nazionale e in compagnia del figlio viaggia all’estero: prima in Spagna, poi in Inghilterra, infine in India, dove approfondisce i rapporti con la 👉 **Società Teosofica**, cui si era iscritta già nel 1899. In una serie di opere approfondisce il significato pedagogico e psicologico del suo metodo: _Il segreto dell’infanzia_ (1936), _La scoperta del bambino _(1948), _Educazione e pace_ (1949),_ La mente del bambino_ (1949) Muore nel 1952 a Noodwyk, in Olanda.
 
->👉 La **teosofia** è una dottrina elaborata a fine Ottocento dalla mistica russa Helena Petrovna Blavatsky e caratterizzata dalla ripresa di motivi spirituali provenienti da diverse religioni, in particolare orientali (prime fra tutte il buddhismo), completati da ideali umanitari propri del tempo: la fratellanza, l'emancipazione, la tolleranza. Blavatsky, che era una medium, sosteneva di aver ricevuto le verità fondamentali enunciate nei suoi libri da alcune entità spirituali con le quali era in grado di entrare in contatto. La teosofia ha esercitato una notevole influenza su diversi settori della vita culturale tra la fine dell'Ottocento ed i primi decenni del Novecento.
+<div class="callout">La **teosofia** è una dottrina elaborata a fine Ottocento dalla mistica russa Helena Petrovna Blavatsky e caratterizzata dalla ripresa di motivi spirituali provenienti da diverse religioni, in particolare orientali (prime fra tutte il buddhismo), completati da ideali umanitari propri del tempo: la fratellanza, l'emancipazione, la tolleranza. Blavatsky, che era una medium, sosteneva di aver ricevuto le verità fondamentali enunciate nei suoi libri da alcune entità spirituali con le quali era in grado di entrare in contatto. La teosofia ha esercitato una notevole influenza su diversi settori della vita culturale tra la fine dell'Ottocento ed i primi decenni del Novecento.</div>
 
 ## L’educazione dei bambini frenastenici
 
