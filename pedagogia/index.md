@@ -16,3 +16,13 @@
 10. La didattica
 
 ## [Maria Montessori](montessori.md)
+1. La vita
+2. L'educazione dei bambini frenastenici
+3. La liberazione del bambino
+4. La Casa dei bambini
+5. Il materiale e gli esercizi
+6. La maestra
+7. Lo sviluppo infantile
+8. La normalizzazione
+9. Una pedagogia per la pace
+10. Bibliografia
