@@ -101,4 +101,5 @@ Ovunque il bambino suscita immediatamente amore, dolcezza, tenerezza. “Il bamb
 
 Tutte le opere di Maria Montessori sono disponibili in edizioni recenti presso l’editore Garzanti di Milano. Moltissimi sono anche gli studi su Montessori. Per una introduzione si può leggere il libro della sua allieva Grazia Honegger Fresco: _Maria Montessori. Una storia attuale_ (L’ancora del Mediterraneo, Napoli 2008). Si può poi approfondire con Giacomo Cives, _Maria Montessori. Pedagogista complessa_ (ETS, Pisa 2001), Clara Torna, _La pedagogia di Maria Montessori tra teoria e azione_ (FrancoAngeli, Milano 2007) e Raniero Regni, _Infanzia e società in Maria Montessori. Il bambino padre dell’uomo_ (Armando, Roma 2007). Sul femminismo di Maria Montessori è utile il libro di Valeria P. Babini e Luisa Lama _Una donna nuova. Il femminismo scientifico di Maria Montessori_ (FrancoAngeli, Milano 2000).
 
-Testo di Antonio Vigilante. Licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0 Italia.
+
+Testo di Antonio Vigilante. 
