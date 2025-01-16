@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="../assets/style.css">
+
+
+<a class="button blue" href="index.md">Pedagogia</a> 
+
 ## 1. Situazioni educative
 
 Immagina di essere con un'amica che sta attraversando un momento difficile. Ti racconta le sue preoccupazioni e tu cerchi di ascoltarla con attenzione, magari dandole un consiglio o aiutandola a vedere le cose da un’altra prospettiva. In quel momento stai facendo qualcosa di più che offrire supporto: stai partecipando a un processo educativo. Stai aiutando la tua amica a riflettere sulle sue emozioni, a comprendere meglio se stessa e a crescere come persona. Allo stesso tempo, anche tu stai imparando: stai sviluppando empatia, capacità di ascolto e un senso di responsabilità verso gli altri.
