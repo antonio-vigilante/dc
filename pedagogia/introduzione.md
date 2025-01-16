@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../assets/style.css">
 
 
-<a class="button blue" href="index.md">Pedagogia</a> 
+<a class="button blue" href="index.html">Pedagogia</a> 
 
 ## 1. Situazioni educative
 
